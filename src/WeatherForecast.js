@@ -11,11 +11,11 @@ export default function WeatherForecast(props) {
     setLoaded(false);
   }, [props.coordinates]);
 
-  function handleResponse(response) {
-    setForecast(response.data.daily);
-    setLoaded(true);
-    console.log(response.data)
-  }
+  // function handleResponse(response) {
+  //   setForecast(response.data.daily);
+  //   setLoaded(true);
+  //   console.log(response.data)
+  // }
 
   // if (loaded) {
   //   return (
