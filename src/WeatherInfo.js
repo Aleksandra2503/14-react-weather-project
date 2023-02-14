@@ -29,7 +29,7 @@ export default function WeatherInfo(props){
                 <div className='col-9  mob-d d-flex flex-direction-column justify-content-start align-items-center text-center'>
                 <ul >
                   <li>
-                    Pressure
+                    Pressure:
                      <p className='bold  pt-2'> {props.data.pressure} </p> 
                   </li>
                   <li>
