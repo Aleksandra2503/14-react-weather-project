@@ -16,7 +16,7 @@ ul{
     margin: 0px auto;
 }
 form{
-    padding-top: 60px ;
+    padding-top: 25px ;
 }
 h1{
     font-size: 4rem;
@@ -25,14 +25,14 @@ h1{
  input {
     width: 100%;
     padding: 0.7rem;
-    font-size: .8rem;
+    font-size: 1.2rem;
     border-radius: 25px;
-    border: 1px solid rgba(255,255,255,0.2);
-    background: rgba(44, 42, 42, 0.162);
-    color: #f8f8f8;
+    border: 1px solid rgba(255, 255, 255, 0.492);
+    background: rgba(55, 45, 45, 0.238);
+    color: #f4eff4f8;
   }
   ::placeholder {
-    color: #f8f8f882;
+    color: #d5cf15ac;
   }
   .searchInput{
     width: 100%;
@@ -90,9 +90,9 @@ h1{
 }
 .info{
     font-weight: 700;
-    writing-mode: vertical-rl;
+    /* writing-mode: vertical-rl; */
     text-orientation: sideways;
-    color: rgba(255,255,255,0.5);
+    color: rgba(255, 255, 255, 0.911);
 }
 a{
   text-decoration: none;
