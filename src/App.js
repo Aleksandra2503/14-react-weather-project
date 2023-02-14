@@ -10,7 +10,7 @@ function App() {
 <footer className='text-center'>
 This project was coded by{" "}
           <a
-            href="https://www.mysite.com/"
+            href="https://www.linkedin.com/in/oleksandra-murashko-1b14a4254/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -18,7 +18,7 @@ This project was coded by{" "}
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com"
+            href="https://github.com/Aleksandra2503/14-react-weather-project"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -26,7 +26,7 @@ This project was coded by{" "}
           </a>{" "}
           and{" "}
           <a
-            href="https://my.app/"
+            href="https://5-week-react-project-murashko.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
