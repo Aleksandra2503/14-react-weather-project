@@ -30,7 +30,7 @@ export default function WeatherInfo(props){
                 <ul >
                   <li>
                     Pressure:
-                     <p className='bold  pt-2'> {props.data.pressure} </p> 
+                     <p className='bold  pt-2'> {props.data.feels_like}</p> 
                   </li>
                   <li>
                     Humidity: 
